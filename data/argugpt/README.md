@@ -1,5 +1,7 @@
 # Machine-essays generation pipeline
 
+The dataset can be downloaded in HuggingFace as well: https://huggingface.co/datasets/SJTU-CL/ArguGPT 
+
 We only upload index for human essays we used, since we don't have copyright to make any of these human texts public. 
 
 This document only introduces how we collected **machine-generated essays**. 
