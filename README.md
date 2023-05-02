@@ -23,11 +23,11 @@ We compiled a 8k human-machine (4k human v.s. 4k machine) comparison argumentati
 | sub-corpus    | # essays | # tokens | mean len | source             | access                                                       |
 |---------------|----------|----------|----------|--------------------|--------------------------------------------------------------|
 | WECCL-human   | 1,845    | 450,657  | 244      | SWECCL 2.0         | SWECCL (Wen & Wang, 2008)                                    |
-| WECCL-machine | 1,813    | 442,531  | 244      | GPT models         | Will be released soon                                        |
+| WECCL-machine | 1,813    | 442,531  | 244      | GPT models         | Released. See in `data/argugpt` folder                       |
 | TOEFL-human   | 1,680    | 503,504  | 299      | TOEFL11            | Purchased in [LDC](https://catalog.ldc.upenn.edu/LDC2014T06) |
-| TOEFL-machine | 1,635    | 442,963  | 270      | GPT models         | Will be released soon                                        |
+| TOEFL-machine | 1,635    | 442,963  | 270      | GPT models         | Released. See in `data/argugpt` folder                       |
 | GRE-human     | 590      | 341,495  | 578      | GRE-prep materials | No copyright to release                                      |
-| GRE-machine   | 590      | 268,640  | 455      | GPT models         | Will be released soon                                        |
+| GRE-machine   | 590      | 268,640  | 455      | GPT models         | Released. See in `data/argugpt` folder                       |
 
 More detailed information about the ArguGPT corpus can be seen in our [paper](https://arxiv.org/abs/2304.07666). 【有关ArguGPT的更多信息，请参考我们的[论文](https://arxiv.org/abs/2304.07666)。】
 
