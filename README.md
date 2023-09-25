@@ -27,9 +27,9 @@ We compiled a 8k human-machine (4k human v.s. 4k machine) comparison argumentati
 | GRE-human     | 590      | 341,495  | 578      | GRE-prep materials         | No copyright to release                                      |
 | GRE-machine   | 590      | 268,640  | 455      | GPT models                 | Released. See in `data/argugpt` folder                       |
 | OOD-human     | 500      | 132,902  | 265      | CLEC                       | CLEC (Gui & Yang, 2003)                                      |
-| OOD-machine   | 500      | 180,120  | 360      | two gpt & three ood models | Released. See in `data/argugpt` folder                       |
+| OOD-machine   | 500      | 180,120  | 360      | ChatGPT & four OOD models  | Released. See in `data/argugpt` folder                       |
 
-More detailed information about the ArguGPT corpus can be seen in our [paper](https://arxiv.org/abs/2304.07666). 【有关ArguGPT的更多信息，请参考我们的[论文](https://arxiv.org/abs/2304.07666)。】
+Note that four OOD models are: `gpt-4`, `claude-instant`, `bloomz-7b`, and `flan-t5-11b`. More detailed information about the ArguGPT corpus can be seen in our [paper](https://arxiv.org/abs/2304.07666). 【有关ArguGPT的更多信息，请参考我们的[论文](https://arxiv.org/abs/2304.07666)。】
 
 
 ## Data split and baseline 数据划分及基准模型
